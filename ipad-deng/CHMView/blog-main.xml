@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>CHMView</title>
+    <link>http://ipad-deng.appspot.com/ipad-deng/CHMView</link>
+    <description>CHMPad is a fast easy to use CHM (Microsoft Compiled HTML ) Reader for iPad. 
+
+
+</description>
+    <item>
+      <title>2.view chms in iPad</title>
+      <link>http://ipad-deng.appspot.com/ipad-deng/CHMView/Entries/2010/10/19_2.view_chms_in_iPad.html</link>
+      <guid isPermaLink="false">266b98b6-3c1e-49b4-a974-f81ee6c4c42e</guid>
+      <pubDate>Tue, 19 Oct 2010 03:33:53 +0800</pubDate>
+      <description>Consectetuer arcu ipsum ornare pellentesque vehicula, in vehicula diam, ornare magna erat felis wisi a risus. Justo fermentum id. Malesuada eleifend, tortor molestie, a fusce a vel et. Mauris at suspendisse, neque aliquam faucibus adipiscing, vivamus in. Wisi mattis leo suscipit nec amet, nisl fermentum tempor ac a, augue in eleifend in venenatis, cras sit id in vestibulum felis in, sed ligula. In sodales suspendisse mauris quam etiam erat, quia tellus convallis eros rhoncus diam orci, porta lectus esse adipiscing posuere et, nisl arcu vitae laoree.</description>
+      <iweb:image href="Media/object001.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://ipad-deng.appspot.com/ipad-deng/CHMView/Entries/2010/10/19_2.view_chms_in_iPad.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>1.copy chms using File Sharing</title>
+      <link>http://ipad-deng.appspot.com/ipad-deng/CHMView/Entries/2010/10/19_1.copy_chms_using_File_Sharing.html</link>
+      <guid isPermaLink="false">d2ab20fd-d557-43ba-af10-faa7a439a7c0</guid>
+      <pubDate>Tue, 19 Oct 2010 03:33:03 +0800</pubDate>
+      <description>Consectetuer arcu ipsum ornare pellentesque vehicula, in vehicula diam, ornare magna erat felis wisi a risus. Justo fermentum id. Malesuada eleifend, tortor molestie, a fusce a vel et. Mauris at suspendisse, neque aliquam faucibus adipiscing, vivamus in. Wisi mattis leo suscipit nec amet, nisl fermentum tempor ac a, augue in eleifend in venenatis, cras sit id in vestibulum felis in, sed ligula. In sodales suspendisse mauris quam etiam erat, quia tellus convallis eros rhoncus diam orci, porta lectus esse adipiscing posuere et, nisl arcu vitae laoree.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
+      <iweb:image href="Media/object036.png"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://ipad-deng.appspot.com/ipad-deng/CHMView/Entries/2010/10/19_1.copy_chms_using_File_Sharing.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>How to start</title>
+      <link>http://ipad-deng.appspot.com/ipad-deng/CHMView/Entries/2010/10/19_How_to_start.html</link>
+      <guid isPermaLink="false">1ac90fa0-555f-42cb-90ed-938f5b8bfcc3</guid>
+      <pubDate>Tue, 19 Oct 2010 03:14:05 +0800</pubDate>
+      <description>Consectetuer arcu ipsum ornare pellentesque vehicula, in vehicula diam, ornare magna erat felis wisi a risus. Justo fermentum id. Malesuada eleifend, tortor molestie, a fusce a vel et. Mauris at suspendisse, neque aliquam faucibus adipiscing, vivamus in. Wisi mattis leo suscipit nec amet, nisl fermentum tempor ac a, augue in eleifend in venenatis, cras sit id in vestibulum felis in, sed ligula. In sodales suspendisse mauris quam etiam erat, quia tellus convallis eros rhoncus diam orci, porta lectus esse adipiscing posuere et, nisl arcu vitae laoree.</description>
+      <iweb:image href="Media/object002.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://ipad-deng.appspot.com/ipad-deng/CHMView/Entries/2010/10/19_How_to_start.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, yyyy</iweb:dateFormat>
+    <iweb:baseURL>http://ipad-deng.appspot.com/ipad-deng/CHMView</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>
