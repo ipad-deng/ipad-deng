@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  <id>urn:iweb:C7C29D7C-36D0-4B34-9360-DEC4F2D66E04</id>
  <title>Page list Atom feed</title>
- <updated>2010-10-31T13:31:15+08:00</updated>
+ <updated>2010-10-31T14:54:13+08:00</updated>
  <link rel="self" href="feed.xml"/>
  <generator>iWeb</generator>
  <author>
@@ -14,7 +14,7 @@
   <title xmlns="urn:iweb:">Welcome</title>
   <in-navbar xmlns="urn:iweb:">F45928F2-3D10-4440-BF69-AB733ACBBCA5</in-navbar>
   <link rel="alternate" href="Welcome.html"/>
-  <updated>2010-10-31T13:31:15.001+08:00</updated>
+  <updated>2010-10-31T14:54:13.001+08:00</updated>
   <content>Welcome</content>
  </entry>
  <entry>
@@ -23,7 +23,7 @@
   <title xmlns="urn:iweb:">CHMView</title>
   <in-navbar xmlns="urn:iweb:">264D6819-1C89-46A3-A48E-D909E2BC117C</in-navbar>
   <link rel="alternate" href="CHMView/CHMView.html"/>
-  <updated>2010-10-31T13:31:15.002+08:00</updated>
+  <updated>2010-10-31T14:54:13.002+08:00</updated>
   <content>CHMView</content>
  </entry>
 </feed>
