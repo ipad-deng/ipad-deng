@@ -3,39 +3,45 @@
   <channel>
     <title>CHMView</title>
     <link>http://ipad-deng.appspot.com/ipad-deng/CHMView</link>
-    <description>CHMPad is a fast easy to use CHM (Microsoft Compiled HTML ) Reader for iPad. 
-
-
-</description>
+    <description>As a fast,easy to use CHM Viewer in IPad, CHMView will be release soon.</description>
     <item>
-      <title>2.view chms in iPad</title>
-      <link>http://ipad-deng.appspot.com/ipad-deng/CHMView/Entries/2010/10/19_2.view_chms_in_iPad.html</link>
-      <guid isPermaLink="false">266b98b6-3c1e-49b4-a974-f81ee6c4c42e</guid>
-      <pubDate>Tue, 19 Oct 2010 03:33:53 +0800</pubDate>
-      <description>Consectetuer arcu ipsum ornare pellentesque vehicula, in vehicula diam, ornare magna erat felis wisi a risus. Justo fermentum id. Malesuada eleifend, tortor molestie, a fusce a vel et. Mauris at suspendisse, neque aliquam faucibus adipiscing, vivamus in. Wisi mattis leo suscipit nec amet, nisl fermentum tempor ac a, augue in eleifend in venenatis, cras sit id in vestibulum felis in, sed ligula. In sodales suspendisse mauris quam etiam erat, quia tellus convallis eros rhoncus diam orci, porta lectus esse adipiscing posuere et, nisl arcu vitae laoree.</description>
-      <iweb:image href="Media/object001.jpg"></iweb:image>
-      <iweb:comment enabled="0" count="0" link="http://ipad-deng.appspot.com/ipad-deng/CHMView/Entries/2010/10/19_2.view_chms_in_iPad.html#comment_layer"></iweb:comment>
-    </item>
-    <item>
-      <title>1.copy chms using File Sharing</title>
-      <link>http://ipad-deng.appspot.com/ipad-deng/CHMView/Entries/2010/10/19_1.copy_chms_using_File_Sharing.html</link>
-      <guid isPermaLink="false">d2ab20fd-d557-43ba-af10-faa7a439a7c0</guid>
-      <pubDate>Tue, 19 Oct 2010 03:33:03 +0800</pubDate>
-      <description>Consectetuer arcu ipsum ornare pellentesque vehicula, in vehicula diam, ornare magna erat felis wisi a risus. Justo fermentum id. Malesuada eleifend, tortor molestie, a fusce a vel et. Mauris at suspendisse, neque aliquam faucibus adipiscing, vivamus in. Wisi mattis leo suscipit nec amet, nisl fermentum tempor ac a, augue in eleifend in venenatis, cras sit id in vestibulum felis in, sed ligula. In sodales suspendisse mauris quam etiam erat, quia tellus convallis eros rhoncus diam orci, porta lectus esse adipiscing posuere et, nisl arcu vitae laoree.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</description>
-      <iweb:image href="Media/object036.png"></iweb:image>
-      <iweb:comment enabled="0" count="0" link="http://ipad-deng.appspot.com/ipad-deng/CHMView/Entries/2010/10/19_1.copy_chms_using_File_Sharing.html#comment_layer"></iweb:comment>
-    </item>
-    <item>
-      <title>How to start</title>
-      <link>http://ipad-deng.appspot.com/ipad-deng/CHMView/Entries/2010/10/19_How_to_start.html</link>
-      <guid isPermaLink="false">1ac90fa0-555f-42cb-90ed-938f5b8bfcc3</guid>
-      <pubDate>Tue, 19 Oct 2010 03:14:05 +0800</pubDate>
-      <description>Consectetuer arcu ipsum ornare pellentesque vehicula, in vehicula diam, ornare magna erat felis wisi a risus. Justo fermentum id. Malesuada eleifend, tortor molestie, a fusce a vel et. Mauris at suspendisse, neque aliquam faucibus adipiscing, vivamus in. Wisi mattis leo suscipit nec amet, nisl fermentum tempor ac a, augue in eleifend in venenatis, cras sit id in vestibulum felis in, sed ligula. In sodales suspendisse mauris quam etiam erat, quia tellus convallis eros rhoncus diam orci, porta lectus esse adipiscing posuere et, nisl arcu vitae laoree.</description>
+      <title>Start to Use</title>
+      <link>http://ipad-deng.appspot.com/ipad-deng/CHMView/Entries/2010/10/30_Start_to_Use.html</link>
+      <guid isPermaLink="false">450b4da5-ba61-4cb1-a49d-4d0733833769</guid>
+      <pubDate>Sat, 30 Oct 2010 23:39:26 +0800</pubDate>
+      <description>CHMView is a compiled HTML(.chm) file reader for iPad. &lt;br/&gt;&lt;br/&gt;FEATURES: &lt;br/&gt;View CHM files with ease, &lt;br/&gt;Automatic open latest file, &lt;br/&gt;Customizable text size, &lt;br/&gt;Reading by scrolling, &lt;br/&gt;Navigate through Table of Contents, &lt;br/&gt;Bookmark Management with ease, &lt;br/&gt;iTunes File Sharing. &lt;br/&gt;&lt;br/&gt;You can use it from following step&lt;br/&gt;	1.	Add CHM files through iTunes File Sharing.&lt;br/&gt;	2.	Open the CHM files.&lt;br/&gt;	3.	Select index from popover view or left view.&lt;br/&gt;	4.	View the contents.&lt;br/&gt;	5.	Add bookmarks.&lt;br/&gt;	6.	Remove the exist CHM files.</description>
       <iweb:image href="Media/object002.jpg"></iweb:image>
-      <iweb:comment enabled="0" count="0" link="http://ipad-deng.appspot.com/ipad-deng/CHMView/Entries/2010/10/19_How_to_start.html#comment_layer"></iweb:comment>
+      <iweb:comment enabled="0" count="0" link="http://ipad-deng.appspot.com/ipad-deng/CHMView/Entries/2010/10/30_Start_to_Use.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Add CHM files through iTunes File Sharing</title>
+      <link>http://ipad-deng.appspot.com/ipad-deng/CHMView/Entries/2010/10/30_Add_CHM_files_through_iTunes_File_Sharing.html</link>
+      <guid isPermaLink="false">46e8448f-a5f1-4bb3-838e-cdea42c59248</guid>
+      <pubDate>Sat, 30 Oct 2010 23:39:25 +0800</pubDate>
+      <description>Using iTunes 9.1 or later, you can copy files to and from your computer and apps on iPad that support File Sharing.(http://support.apple.com/kb/ht4094)&lt;br/&gt;&lt;br/&gt;1.Connect iPad to your computer using the included Dock Connector to USB cable.&lt;br/&gt;2.Click the Apps tab and scroll down to the bottom of the page. &lt;br/&gt;3.Under the File Sharing section, you&#x2019;ll find a list of apps currently installed on your iPad that support File Sharing. Select CHMView to view a list of the files associated with the app on your iPad.&lt;br/&gt;4.Drag and drop files onto the Documents list to copy them to the app on your iPad.</description>
+      <iweb:image href="Media/object003.png"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://ipad-deng.appspot.com/ipad-deng/CHMView/Entries/2010/10/30_Add_CHM_files_through_iTunes_File_Sharing.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Open the CHM files</title>
+      <link>http://ipad-deng.appspot.com/ipad-deng/CHMView/Entries/2010/10/30_Open_the_CHM_files.html</link>
+      <guid isPermaLink="false">3872b14c-74e2-427e-8564-899b7d2ac18d</guid>
+      <pubDate>Sat, 30 Oct 2010 23:39:11 +0800</pubDate>
+      <description>When click &#x201C;Books&#x201D; button, all the documents added by itunes file sharing show up.You can just click one you need to open it!&lt;br/&gt;Tips: reopen it is very quick, so you can  quickly switch between two CHM files.&lt;br/&gt;</description>
+      <iweb:image href="Media/object004.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://ipad-deng.appspot.com/ipad-deng/CHMView/Entries/2010/10/30_Open_the_CHM_files.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Select index from popover view or left view</title>
+      <link>http://ipad-deng.appspot.com/ipad-deng/CHMView/Entries/2010/10/30_Select_index_from_popover_view_or_left_view.html</link>
+      <guid isPermaLink="false">bc17f6cd-a1d7-4bda-8ee0-6b904a24f98a</guid>
+      <pubDate>Sat, 30 Oct 2010 23:32:59 +0800</pubDate>
+      <description>Eliquatuero dip numsan vent lam, conum facillum init lut doloreet ulla metuero od tet adit, commod tatumy feug tiam velit praese exer aute enit alit, veliqua modit dolorer commod niam onul laore. Uptat prat lut lut iriliquat, quis alisl irilit am irillum at niam, verosto consequ ismodit iriuscin el dolorero prat lut lut iriliquat, quis alisl irilit am irillum at niam zzrit, verosto dionsequi veliqui exerit inis ea feugue verosto consequ commod dolorero ismodit feum.&lt;br/&gt;&lt;br/&gt;Duis nonsequ ismodol oreetuer iril dolore facidunt, vulluptat et volore consecte dolesed dolor se velit ver adionse magnisc illandi gniamet, vendre feum veniamc onullutpatin hent ipit wisi esse dolesting ero dunt utpatin vel ipit, quation ullum aut prat. Am autet, quatet nosto od minci euip enim delessequisl ullutat augait eu facilla autpatie eui.&lt;br/&gt;Vullandrem in eum velestrud eraesto doloreetum quis aer non vendreet, consed minismolore eugue conulput ad tat. Im non veraestio er accummo loboreet ad magna conummy non vel et praesto odolore et, quisit etum zzrilisse core feugue et magniss endiam, venis nonsequatum ver quatumm olortin hent lobore tatem dipit iure con er in utpat. Ut ea faccum velis nostrud tem alit ing et lor accummod mincip ent er sim nibh esed te facil dit la facinia metuer ad magna feu ver faci tem autat nissequam dolortie doloreet lutat. Estio dunt ullaorem in erostio duiscipisi.</description>
+      <iweb:image href="Media/object024.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://ipad-deng.appspot.com/ipad-deng/CHMView/Entries/2010/10/30_Select_index_from_popover_view_or_left_view.html#comment_layer"></iweb:comment>
     </item>
     <iweb:dateFormat>EEEE, MMMM d, yyyy</iweb:dateFormat>
     <iweb:baseURL>http://ipad-deng.appspot.com/ipad-deng/CHMView</iweb:baseURL>
-    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+    <iweb:maximumSummaryItems>10</iweb:maximumSummaryItems>
   </channel>
 </rss>

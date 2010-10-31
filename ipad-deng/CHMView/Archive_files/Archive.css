@@ -11,15 +11,15 @@
     opacity: 1.00;
 }
 .Header {
-    color: rgb(125, 131, 137);
-    font-family: 'Palatino-Bold', 'Palatino', serif;
-    font-size: 29px;
+    color: rgb(209, 84, 57);
+    font-family: 'Baskerville-SemiBold', 'Baskerville', 'Times New Roman', serif;
+    font-size: 54px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: 700;
-    letter-spacing:     0.16em;
-    line-height: 38px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 61px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -27,30 +27,30 @@
     opacity: 1.00;
     padding-bottom: 0px;
     padding-top: 0px;
-    text-align: center;
+    text-align: left;
     text-decoration: none;
     text-indent: 0px;
-    text-transform: uppercase;
+    text-transform: none;
 }
 .Normal {
-    padding: 4px;
+    padding: 0px;
 }
-.Normal_External_642_59 {
+.Normal_External_530_61 {
     position: relative;
 }
-.Normal_External_500_32 {
+.Normal_External_312_36 {
     position: relative;
 }
 .Title {
-    color: rgb(186, 122, 76);
-    font-family: 'Palatino-Bold', 'Palatino', serif;
-    font-size: 18px;
+    color: rgb(209, 84, 57);
+    font-family: 'Baskerville-SemiBold', 'Baskerville', 'Times New Roman', serif;
+    font-size: 24px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: 700;
+    font-weight: 600;
     letter-spacing: 0;
-    line-height: 24px;
+    line-height: 28px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -58,7 +58,7 @@
     opacity: 1.00;
     padding-bottom: 0px;
     padding-top: 0px;
-    text-align: center;
+    text-align: left;
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
@@ -76,19 +76,19 @@
     opacity: 1.00;
 }
 #widget1 a:visited {
-    color: rgb(125, 131, 137);
-    text-decoration: none;
+    color: rgb(138, 82, 58);
+    text-decoration: underline;
 }
 #widget1 .Summary_Comment {
-    color: rgb(39, 36, 77);
-    font-family: 'Palatino-BoldItalic', 'Palatino', serif;
-    font-size: 12px;
+    color: rgb(79, 30, 0);
+    font-family: 'AppleCasual', 'Casual', 'Comic Sans MS', serif;
+    font-size: 13px;
     font-stretch: normal;
-    font-style: italic;
+    font-style: normal;
     font-variant: normal;
-    font-weight: 700;
+    font-weight: 400;
     letter-spacing: 0;
-    line-height: 24px;
+    line-height: 16px;
     margin-bottom: 0px;
     margin-top: 0px;
     opacity: 1.00;
@@ -97,20 +97,20 @@
     text-transform: none;
 }
 #widget0 a:visited {
-    color: rgb(125, 131, 137);
-    text-decoration: none;
+    color: rgb(138, 82, 58);
+    text-decoration: underline;
 }
 #widget1 .Summary_Date {
-    color: rgb(39, 33, 0);
-    font-family: 'Palatino-BoldItalic', 'Palatino', serif;
-    font-size: 13px;
+    color: rgb(138, 82, 58);
+    font-family: 'AppleCasual', 'Casual', 'Comic Sans MS', serif;
+    font-size: 12px;
     font-stretch: normal;
-    font-style: italic;
+    font-style: normal;
     font-variant: normal;
-    font-weight: 700;
+    font-weight: 400;
     letter-spacing: 0;
-    line-height: 18px;
-    margin-bottom: 6px;
+    line-height: 16px;
+    margin-bottom: 0px;
     margin-top: 0px;
     opacity: 1.00;
     text-align: left;
@@ -122,7 +122,7 @@
     line-height: 1px;
 }
 #widget1 a:hover {
-    color: rgb(186, 122, 76);
+    color: rgb(213, 140, 85);
     text-decoration: underline;
 }
 .tinyText {
@@ -130,15 +130,15 @@
     line-height: 1px;
 }
 #widget1 .Summary_Title {
-    color: rgb(186, 122, 76);
-    font-family: 'Palatino-Bold', 'Palatino', serif;
-    font-size: 18px;
+    color: rgb(209, 84, 57);
+    font-family: 'Baskerville-SemiBold', 'Baskerville', 'Times New Roman', serif;
+    font-size: 22px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: 700;
+    font-weight: 600;
     letter-spacing: 0;
-    line-height: 24px;
+    line-height: 25px;
     margin-bottom: 0px;
     margin-top: 0px;
     opacity: 1.00;
@@ -147,15 +147,15 @@
     text-transform: none;
 }
 #widget1 .Summary_Read_More {
-    color: rgb(39, 36, 77);
-    font-family: 'Palatino-BoldItalic', 'Palatino', serif;
-    font-size: 12px;
+    color: rgb(79, 30, 0);
+    font-family: 'AppleCasual', 'Casual', 'Comic Sans MS', serif;
+    font-size: 13px;
     font-stretch: normal;
-    font-style: italic;
+    font-style: normal;
     font-variant: normal;
-    font-weight: 700;
+    font-weight: 400;
     letter-spacing: 0;
-    line-height: 24px;
+    line-height: 16px;
     margin-bottom: 0px;
     margin-top: 0px;
     opacity: 1.00;
@@ -164,11 +164,11 @@
     text-transform: none;
 }
 #widget0 a {
-    color: rgb(39, 33, 0);
+    color: rgb(225, 58, 0);
     text-decoration: none;
 }
 #widget0 a:hover {
-    color: rgb(186, 122, 76);
+    color: rgb(213, 140, 85);
     text-decoration: underline;
 }
 .bumper {
@@ -176,19 +176,19 @@
     line-height: 1px;
 }
 #widget1 a {
-    color: rgb(39, 33, 0);
+    color: rgb(225, 58, 0);
     text-decoration: none;
 }
 #widget1 .Summary_Separator {
-    color: rgb(88, 77, 77);
-    font-family: 'Palatino-Roman', 'Palatino', serif;
-    font-size: 15px;
+    color: rgb(0, 0, 0);
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 12px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 23px;
+    line-height: 14px;
     margin-bottom: 0px;
     margin-top: 0px;
     opacity: 1.00;
@@ -197,16 +197,16 @@
     text-transform: none;
 }
 #widget1 .Summary_Body {
-    color: rgb(39, 33, 0);
-    font-family: 'Palatino-Roman', 'Palatino', serif;
-    font-size: 14px;
+    color: rgb(78, 29, 1);
+    font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
+    font-size: 13px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 19px;
-    margin-bottom: 0px;
+    line-height: 18px;
+    margin-bottom: 10px;
     margin-top: 0px;
     opacity: 1.00;
     text-align: left;
