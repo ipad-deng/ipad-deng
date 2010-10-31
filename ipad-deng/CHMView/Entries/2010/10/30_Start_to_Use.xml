@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="0FCD6271-B1AE-479A-8938-2FA1586909A7">
+  <lastEdited clientType="local-build-20101031" date="2010-10-31 14:54:13 +0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;CHMView&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="30_Start_to_Use_files/shapeimage_1.png" left="0px" top="0px" width="313px" height="190px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;CHMView is a compiled HTML(.chm) file reader for iPad. &#xD;&#xD;FEATURES: &#xD;View CHM files with ease, &#xD;Automatic open latest file, &#xD;Customizable text size, &#xD;Reading by scrolling, &#xD;Navigate through Table of Contents, &#xD;Bookmark Management with ease, &#xD;iTunes File Sharing. &#xD;&lt;/b&gt;&#xD;You can use it from following step&#xD;	1.	Add CHM files through iTunes File Sharing.&#xD;	2.	Open the CHM files.&#xD;	3.	Select index from popover view or left view.&#xD;	4.	View the contents.&#xD;	5.	Add bookmarks.&#xD;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Start to Use&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Saturday, October 30, 2010</richText>
+  </textBox>
+</content>

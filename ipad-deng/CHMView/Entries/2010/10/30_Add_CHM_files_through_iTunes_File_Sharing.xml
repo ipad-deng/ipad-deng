@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="0FCD6271-B1AE-479A-8938-2FA1586909A7">
+  <lastEdited clientType="local-build-20101031" date="2010-10-31 13:31:17 +0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;CHMView&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="30_Add_CHM_files_through_iTunes_File_Sharing_files/shapeimage_1.png" left="0px" top="0px" width="309px" height="190px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Using iTunes 9.1 or later, you can copy files to and from your computer and apps on iPad that support File Sharing.(http://support.apple.com/kb/ht4094)&#xD;&#xD;1.Connect iPad to your computer using the included Dock Connector to USB cable.&#xD;2.Click the Apps tab and scroll down to the bottom of the page. &#xD;3.Under the File Sharing section, you&#x2019;ll find a list of apps currently installed on your iPad that support File Sharing. Select CHMView to view a list of the files associated with the app on your iPad.&#xD;4.Drag and drop files onto the Documents list to copy them to the app on your iPad.</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Add CHM files through iTunes File Sharing&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Saturday, October 30, 2010</richText>
+  </textBox>
+</content>

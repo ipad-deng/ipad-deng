@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="0FCD6271-B1AE-479A-8938-2FA1586909A7">
+  <lastEdited clientType="local-build-20101031" date="2010-10-31 13:31:16 +0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;CHMView&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="30_Open_the_CHM_files_files/shapeimage_1.png" left="0px" top="0px" width="416px" height="192px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>When click &#x201C;Books&#x201D; button, all the documents added by itunes file sharing show up.You can just click one you need to open it!&#xD;Tips: reopen it is very quick, so you can  quickly switch between two CHM files.&#xD;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Open the CHM files&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Saturday, October 30, 2010</richText>
+  </textBox>
+</content>
