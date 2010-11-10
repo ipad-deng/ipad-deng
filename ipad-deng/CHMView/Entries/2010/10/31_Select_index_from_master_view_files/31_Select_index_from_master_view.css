@@ -268,15 +268,15 @@ a:hover {
     color: rgb(213, 140, 85);
     text-decoration: underline;
 }
-#widget1 a {
-    color: rgb(225, 58, 0);
-    text-decoration: none;
+.bumper {
+    font-size: 1px;
+    line-height: 1px;
+}
+.tinyText {
+    font-size: 1px;
+    line-height: 1px;
 }
 #widget0 a:hover {
-    color: rgb(213, 140, 85);
-    text-decoration: underline;
-}
-#widget1 a:hover {
     color: rgb(213, 140, 85);
     text-decoration: underline;
 }
@@ -288,19 +288,7 @@ a:hover {
     color: rgb(225, 58, 0);
     text-decoration: none;
 }
-#widget1 a:visited {
-    color: rgb(138, 82, 58);
-    text-decoration: underline;
-}
 .spacer {
-    font-size: 1px;
-    line-height: 1px;
-}
-.tinyText {
-    font-size: 1px;
-    line-height: 1px;
-}
-.bumper {
     font-size: 1px;
     line-height: 1px;
 }

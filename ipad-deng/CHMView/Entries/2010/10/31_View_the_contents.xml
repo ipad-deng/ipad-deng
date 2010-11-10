@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <content collectionGUID="0FCD6271-B1AE-479A-8938-2FA1586909A7">
-  <lastEdited clientType="local-build-20101031" date="2010-10-31 18:23:42 +0800"/>
+  <lastEdited clientType="local-build-20101111" date="2010-11-11 05:13:39 +0800"/>
   <textBox id="generic-header-attribute" dynamic="no" visible="yes">
     <richText>&lt;b&gt;CHMView&lt;/b&gt;</richText>
   </textBox>
