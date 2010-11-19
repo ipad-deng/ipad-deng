@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <content collectionGUID="36AAF097-9DE4-4F47-81B4-0555EBE5C9AA">
-  <lastEdited clientType="local-build-20101119" date="2010-11-19 15:14:13 +0800"/>
+  <lastEdited clientType="local-build-20101119" date="2010-11-19 15:35:00 +0800"/>
   <textBox id="generic-header-attribute" dynamic="no" visible="yes">
-    <richText>&lt;b&gt;My Blog&lt;/b&gt;</richText>
+    <richText>&lt;b&gt;CNPinyin&lt;/b&gt;</richText>
   </textBox>
   <image id="generic-picture-attributes" dynamic="no" visible="yes" src="16_Permanent_Vacation_files/shapeimage_1.png" left="0px" top="0px" width="332px" height="159px"/>
   <textBox id="generic-body-attributes" dynamic="no" visible="yes">
