@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>CNPinyin</title>
+    <link>http://ipad-deng.appspot.com/ipad-deng/CNPinyin</link>
+    <description>CNPinyin is a funny Chinese Pinyin applications for kids.
+Beautiful pics,free drawing, let kids learn pinyin with ease.</description>
+    <item>
+      <title>How to Use it</title>
+      <link>http://ipad-deng.appspot.com/ipad-deng/CNPinyin/Entries/2010/11/16_Permanent_Vacation.html</link>
+      <guid isPermaLink="false">d3ec83cc-8efd-4581-9e32-ccc0d1f00d53</guid>
+      <pubDate>Tue, 16 Nov 2010 14:01:54 +0800</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://ipad-deng.appspot.com/ipad-deng/CNPinyin/Entries/2010/11/16_Permanent_Vacation.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, yyyy</iweb:dateFormat>
+    <iweb:baseURL>http://ipad-deng.appspot.com/ipad-deng/CNPinyin</iweb:baseURL>
+    <iweb:maximumSummaryItems>10</iweb:maximumSummaryItems>
+  </channel>
+</rss>

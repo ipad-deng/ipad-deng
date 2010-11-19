@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="36AAF097-9DE4-4F47-81B4-0555EBE5C9AA">
+  <lastEdited clientType="local-build-20101119" date="2010-11-19 15:14:13 +0800"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;My Blog&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="16_Permanent_Vacation_files/shapeimage_1.png" left="0px" top="0px" width="332px" height="159px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Just Click CNPinyin, before you use it.&#xD;Please see the video for details.&#xD;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;How to Use it&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Tuesday, November 16, 2010</richText>
+  </textBox>
+</content>
